@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chukwuemeka-james/Documents/Machine%20Learning%20Engineering%20Studio/End-to-End-Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/3cf2f9a8082b4f01a59fc151222a4d4a/artifacts
+end_time: 1732617019480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3cf2f9a8082b4f01a59fc151222a4d4a
+run_name: unleashed-toad-928
+run_uuid: 3cf2f9a8082b4f01a59fc151222a4d4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732617010670
+status: 4
+tags: []
+user_id: chukwuemeka-james

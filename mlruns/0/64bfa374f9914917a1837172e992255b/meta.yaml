@@ -1,0 +1,15 @@
+artifact_uri: file:///home/chukwuemeka-james/Documents/Machine%20Learning%20Engineering%20Studio/End-to-End-Kidney-Disease-Classification-Deep-Learning-Project/mlruns/0/64bfa374f9914917a1837172e992255b/artifacts
+end_time: 1732603228860
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64bfa374f9914917a1837172e992255b
+run_name: VGG16 Training Run
+run_uuid: 64bfa374f9914917a1837172e992255b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732603220731
+status: 4
+tags: []
+user_id: chukwuemeka-james
